@@ -1,5 +1,6 @@
 # Practice-HTML-CSS
 A web page i made to practice creating shadows and tiles and flex boxes.
+The flex boxes allow the webpage to be resized without much change.
 
 ## Structure:
 
