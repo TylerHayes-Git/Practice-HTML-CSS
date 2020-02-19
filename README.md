@@ -171,3 +171,7 @@ div{
     flex: 1;
 }
 ```
+
+## How It Looks:
+
+![alt text](HTML_Practice_2.PNG)
